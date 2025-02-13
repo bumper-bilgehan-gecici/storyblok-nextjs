@@ -13,6 +13,7 @@ export const getStoryblokApi = storyblokInit({
   components: {
     tour: Tour,
     page: Page,
+    'default-page': Page,
     hero: Hero,
     grid: Grid,
     feature: Feature,
